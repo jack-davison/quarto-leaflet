@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "docs/problem2.html",
+    "href": "docs/problem2.html",
+    "title": "Problem",
+    "section": "",
+    "text": "library(leaflet)\n\nleaflet() %>% \n  addTiles()\n\n\nFigure 1: This is a {leaflet} map. If you see this caption but not the map, it hasn’t loaded correctly."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "mysite",
+    "section": "",
+    "text": "library(leaflet)\n\nleaflet() %>% \n  addTiles()\n\n\nFigure 1: This is a {leaflet} map. If you see this caption but not the map, it hasn’t loaded correctly."
+  },
+  {
+    "objectID": "problem1.html",
+    "href": "problem1.html",
+    "title": "Okay",
+    "section": "",
+    "text": "library(leaflet)\n\nleaflet() %>% \n  addTiles()\n\n\nFigure 1: This is a {leaflet} map. If you see this caption but not the map, it hasn’t loaded correctly."
+  }
+]

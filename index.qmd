@@ -1,0 +1,15 @@
+---
+title: "mysite"
+---
+
+This is a Quarto website with a leaflet map in it.
+
+```{r}
+#| label: fig-leaflet
+#| fig-cap: "This is a {leaflet} map. If you see this caption but not the map, it hasn't loaded correctly."
+
+library(leaflet)
+
+leaflet() %>% 
+  addTiles()
+```

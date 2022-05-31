@@ -1,0 +1,16 @@
+---
+title: "Okay"
+---
+
+This map should work (not in a folder).
+
+```{r}
+#| label: fig-leaflet
+#| fig-cap: "This is a {leaflet} map. If you see this caption but not the map, it hasn't loaded correctly."
+
+library(leaflet)
+
+leaflet() %>% 
+  addTiles()
+```
+
